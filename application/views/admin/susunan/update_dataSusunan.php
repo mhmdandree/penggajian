@@ -51,7 +51,6 @@
                         <option value="Pendidikan">Pendidikan</option>
                         <option value="Olahraga">Olahraga</option>
                         <option value="Hiburan">Hiburan</option>
-                        <option value="Promo">promo</option>
                     </select>
                     <?php echo form_error('jenis_program', '<div class="text-small text-danger"> </div>') ?>
                 </div>
