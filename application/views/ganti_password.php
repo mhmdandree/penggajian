@@ -11,7 +11,7 @@
   		<form method="POST" action="<?php echo base_url('ganti_password/ganti_password_aksi')?>">
   			
   			<div class="form-grup">
-  				<label>Password Baru</label>
+  				<label>New Password</label>
   				<input type="password" name="passBaru" class="form-control">
   				<?php echo form_error('paasBaru', '<div class="text-small text-danger"> </div>')?>
   			</div>
