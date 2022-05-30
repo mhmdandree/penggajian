@@ -14,7 +14,7 @@
         <form method="POST" action="<?php echo base_url('admin/data_susunan/tambah_data_aksi') ?>" enctype="multipart/form-data">
 
             <div class="form-group">
-                <label>Identitas Program</label>
+                <label>ID Program TV</label>
                 <input type="number" name="id_program" class="form-control">
                 <?php echo form_error('id_program', '<div class="text-small text-danger"> </div>') ?>
             </div>
