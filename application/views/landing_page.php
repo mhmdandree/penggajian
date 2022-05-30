@@ -31,8 +31,8 @@
    <div class="Header" id="Home">
       <nav class="navbar fixed-top">
          <div class="container">
-            <a class="navbar-brand text-$blue-700" href="#">TVRI NASIONAL</a>
-            <div class="collapse_menu deactive">
+            <a class="navbar-brand text-$blue-700" href="#"">NATURAL PLANNER</a>
+            <div class=" collapse_menu deactive">
                <i class="fa fa-bars" aria-hidden="true"></i>
                <i class="fa fa-times" aria-hidden="true"></i>
                <ul class="nav">
@@ -43,32 +43,32 @@
                      <a class="nav-link" href="<?php echo base_url('login'); ?>">Login</a>
                   </li>
                </ul>
-            </div>
          </div>
-      </nav>
-      <div class="banner">
-         <div class="layer">
-            <div class="row Section">
-               <div class="col">
-                  <div class="box">
-                     <div>
-                        <h2>APP <br> SISACARA</h2>
-                     </div>
-                     <p>aplikasi ini dibuat untuk membantu perusahaan dalam menyusun dan memberikan informasi terkait program acara televisi harian TVRI Nasional </p>
+   </div>
+   </nav>
+   <div class="banner">
+      <div class="layer">
+         <div class="row Section">
+            <div class="col">
+               <div class="box">
+                  <div>
+                     <h2>APP <br> SISACARA</h2>
                   </div>
+                  <p>aplikasi ini dibuat untuk membantu perusahaan dalam menyusun dan memberikan informasi terkait program acara televisi harian TVRI Nasional </p>
                </div>
-               <div class="col headerImg" style="background-image: url('<?php echo base_url() ?>assets/img/Logo Metro.png');background-size: 100%;background-repeat: no-repeat;">
-               </div>
+            </div>
+            <div class="col headerImg" style="background-image: url('<?php echo base_url() ?>assets/img/logo-weddorg.png');background-size: 100%;background-repeat: no-repeat;">
             </div>
          </div>
       </div>
+   </div>
    </div>
    <!-- Footer Section -->
    <div class="Footer" id="Footer">
       <div class="container">
          <div class="row">
             <div class="col-12 text-center my-3">
-               Copyright &copy; Kelompok 3 IMK Teori | bijikopi - All Rights Reserved
+               Copyright &copy; Kelompok 3 IMK PRAKTIKUN | SISWED - All Rights Reserved
             </div>
          </div>
       </div>

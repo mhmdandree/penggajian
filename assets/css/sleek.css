@@ -18,7 +18,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #4c84ff;
+  --primary: #736357;
   --secondary: #8a909d;
   --success: #29cc97;
   --info: #13cae1;
@@ -2544,8 +2544,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #4c84ff;
-  border-color: #4c84ff;
+  background-color: #736357;
+  border-color: #736357;
 }
 
 .btn-primary:hover {
@@ -2563,8 +2563,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #ffffff;
-  background-color: #4c84ff;
-  border-color: #4c84ff;
+  background-color: #736357;
+  border-color: #736357;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -2876,14 +2876,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #4c84ff;
-  border-color: #4c84ff;
+  color: #736357;
+  border-color: #736357;
 }
 
 .btn-outline-primary:hover {
   color: #ffffff;
-  background-color: #4c84ff;
-  border-color: #4c84ff;
+  background-color: #736357;
+  border-color: #736357;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -6787,7 +6787,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #4c84ff !important;
+  background-color: #736357 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6925,7 +6925,7 @@ button.bg-purple:focus {
 }
 
 .border-primary {
-  border-color: #4c84ff !important;
+  border-color: #736357 !important;
 }
 
 .border-secondary {
@@ -15743,7 +15743,7 @@ div.copied {
 .app-brand {
   position: relative;
   display: block;
-  background-color: #4c84ff;
+  background-color: #736357;
 }
 
 .app-brand a {

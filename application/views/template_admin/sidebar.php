@@ -8,8 +8,8 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
-        <img src="<?php echo base_url(); ?>assets/img/Logo TVRI.png" width="80" height="60">
-        <span class="brand-name text-truncate text-bold">SISACARA</span>
+        <img src="<?php echo base_url(); ?>assets/img/logo-weddorg-login-white.png" width="100" height="40">
+        <!-- <span class="brand-name text-truncate text-bold" style="width:2;">SISWED</span> -->
       </a>
 
       <!-- Divider -->

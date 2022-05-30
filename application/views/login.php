@@ -17,7 +17,7 @@
     <link id="sleek-css" rel="stylesheet" href="<?php echo base_url(); ?>assets/css/sleek.css" />
 
     <!-- FAVICON -->
-    <link href="<?php echo base_url(); ?>assets/img/Logo TVRI.png" rel="shortcut icon" />
+    <link href="<?php echo base_url(); ?>" rel="shortcut icon" />
 
     <!--
       HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries
@@ -39,8 +39,8 @@
                     <div class="card-header bg-primary">
                         <div class="app-brand">
                             <a href="/index.html">
-                                <img src="<?php echo base_url(); ?>assets/img/Logo TVRI.png">
-                                <span class="brand-name">SISACARA</span>
+                                <img src="<?php echo base_url(); ?>assets/img/logo-weddorg-login-white.png">
+                                <span class="brand-name">SISWED</span>
                             </a>
                         </div>
                     </div>
