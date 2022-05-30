@@ -4,12 +4,12 @@
 <head>
    <meta charset="UTF-8" />
    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <title>SISACAR-TVRI Nasional</title>
+   <title>SISWED-NATURAL PLANNER</title>
    <!-- StyleSheets -->
    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/landing/css/bootstrap/bootstrap.min.css" />
    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/landing/css/fontawesome/css/all.min.css" />
    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/landing/css/style.css" />
-   <link rel="icon" type="image/png" href="assets/img/Logo Metro.png">
+   <link rel="icon" type="image/png" href="assets/img/logo-weddorg.png">
 </head>
 
 <body>
